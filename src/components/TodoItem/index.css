@@ -34,6 +34,14 @@
   cursor: pointer;
 }
 
+.edit-btn {
+  color: blue;
+  border: 1px solid blue;
+}
+.save-btn {
+  color: #4caf50;
+  border: 1px solid #4caf50;
+}
 @media screen and (min-width: 768px) {
   .delete-btn {
     font-size: 18px;
